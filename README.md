@@ -4,13 +4,14 @@
 
 １）https://github.com/oisix/20vegetablesJuicyChickenSalad.git をforkする。
 
-２）リポジトリ上のレシピをアレンジする。
-普通にレシピをアレンジしても、すべてを消してプログラムを作っても構いません。
+２）リポジトリ上のレシピをアレンジする。  
+普通にレシピをアレンジしても、プログラムを作っても構いません。  
 アレンジの仕方は皆様におまかせいたします。
 
 ３）プルリクする。応募完了  
 (4月1日～4月30日)
 
-抽選で*Happy Hacking Keyboard Professional*が当たります。
+こちらで選考させていただき、もっとも良いと感じさせていただいた方に  
+*Happy Hacking Keyboard Professional*を差し上げます。
 
 ![喜ぶ当選者](/img/喜ぶ.jpg)
